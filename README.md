@@ -1,5 +1,4 @@
 # Hello
-I do coding as a hobby, it's pretty fun.
+I do professional & hobbyist coding. It's pretty fun.
 
-### Links:
-- Gists: [here](https://gist.github.com/Icedude907)
+This Github page is mostly quiet while I work privately, but feel free to browse around!
